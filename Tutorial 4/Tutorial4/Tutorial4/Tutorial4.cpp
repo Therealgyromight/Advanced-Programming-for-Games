@@ -2,6 +2,9 @@
 //
 
 #include <iostream>
+#include <cstdint>
+#include <vector>
+
 using namespace std;
 
 void swap(int b, int l, int f, int g) {
@@ -24,13 +27,19 @@ int main()
 	int y = 200;
 	int arr[10] = { 1,2,3,4,5,6,7,8,9,10 };
 	int* p = &x;
+	
+	cout << p << ' ' << p + 1 << endl;
 	int* l = &y;
 	int* a = arr;
 	cout << x << "and" << y << endl;
+	cout << &a << endl;
+	cout << &a << ' ' << a << ' ' << (a + 1) << endl;
 	swap(x, *l, y, *p);
 	
 	arrayfunc(a);
-
+	cout << p << endl;
+	cout << *p << endl;
+	cout << &p << endl;
 }
 
 

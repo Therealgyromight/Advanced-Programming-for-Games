@@ -1,0 +1,33 @@
+[33mcommit a8aadf5a839f62c2c5ef6b56f3f138e86b18e9c8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Rui Antunes <B9059301@18SCOMPD143>
+Date:   Thu Oct 3 14:19:47 2019 +0100
+
+    Exercise 3 and 4
+
+[33mcommit 464f0db9f160067026d631c69f41f55c3452f125[m
+Author: Rui Antunes <B9059301@18SCOMPD143>
+Date:   Tue Oct 1 15:01:37 2019 +0100
+
+    Tutorial Exercices 2
+    
+    Please enter the commit message for your changes. Lines starting
+
+[33mcommit 683d573454c6951b014401159badb99020150e30[m
+Author: Rui Antunes <B9059301@18SCOMPD143>
+Date:   Tue Oct 1 13:33:51 2019 +0100
+
+    Second Commit
+    +
+    ZZ
+
+[33mcommit 69956fb3aa8e0a5635dd6acc297bfd430c08638b[m
+Author: Rui Antunes <b9059301@newcastle.ac.uk>
+Date:   Mon Sep 30 15:09:29 2019 +0100
+
+    Add HelloWorld
+
+[33mcommit 2ca64b10e54d4b7e66379d5f52bd2439564a447c[m
+Author: Therealgyromight <55988246+Therealgyromight@users.noreply.github.com>
+Date:   Mon Sep 30 15:05:44 2019 +0100
+
+    Initial commit
