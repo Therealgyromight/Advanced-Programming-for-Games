@@ -1,0 +1,255 @@
+15
+1 13 4 12 
+3 2 7 8 
+5 18 19 16 
+11 6 15 0
+Number of Rows (4) 299376000
+Number of Reverse Rows (4) 299376000
+Number of Columns (4) 299376000
+Number of Reverse Columns (4) 299376000
+total for row and column including reverse for this configuration
+2 = 4
+3 = 0
+4 = 0
+total for row and column including reverse for all possible and valid configuration
+2 = 22399956480
+3 = 11735539200
+4 = 299376000
+
+2 13 7 15 
+19 3 9 10 
+8 17 12 1 
+6 14 5 0
+Number of Rows (4) 239500800
+Number of Reverse Rows (4) 239500800
+Number of Columns (4) 239500800
+Number of Reverse Columns (4) 239500800
+total for row and column including reverse for this configuration
+2 = 2
+3 = 0
+4 = 0
+total for row and column including reverse for all possible and valid configuration
+2 = 20363596800
+3 = 11735539200
+4 = 239500800
+
+5 11 18 7 
+2 1 16 14 
+17 13 8 6 
+3 9 12 0
+Number of Rows (4) 179625600
+Number of Reverse Rows (4) 179625600
+Number of Columns (4) 179625600
+Number of Reverse Columns (4) 179625600
+total for row and column including reverse for this configuration
+2 = 0
+3 = 0
+4 = 0
+total for row and column including reverse for all possible and valid configuration
+2 = 22399956480
+3 = 11735539200
+4 = 179625600
+
+10 8 18 11 
+7 13 6 16 
+1 2 3 5 
+15 19 14 0
+Number of Rows (4) 119750400
+Number of Reverse Rows (4) 119750400
+Number of Columns (4) 119750400
+Number of Reverse Columns (4) 119750400
+total for row and column including reverse for this configuration
+2 = 3
+3 = 2
+4 = 0
+total for row and column including reverse for all possible and valid configuration
+2 = 20363596800
+3 = 8382528000
+4 = 119750400
+
+2 16 6 17 
+14 1 18 10 
+8 5 13 12 
+7 19 3 0
+Number of Rows (4) 119750400
+Number of Reverse Rows (4) 119750400
+Number of Columns (4) 119750400
+Number of Reverse Columns (4) 119750400
+total for row and column including reverse for this configuration
+2 = 0
+3 = 0
+4 = 0
+total for row and column including reverse for all possible and valid configuration
+2 = 20363596800
+3 = 10059033600
+4 = 119750400
+
+17 4 8 19 
+5 16 1 12 
+6 7 2 11 
+15 14 13 0
+Number of Rows (4) 359251200
+Number of Reverse Rows (4) 359251200
+Number of Columns (4) 359251200
+Number of Reverse Columns (4) 359251200
+total for row and column including reverse for this configuration
+2 = 2
+3 = 0
+4 = 0
+total for row and column including reverse for all possible and valid configuration
+2 = 22399956480
+3 = 13412044800
+4 = 359251200
+
+14 5 18 8 
+11 19 7 2 
+15 12 3 13 
+6 4 16 0
+Number of Rows (4) 419126400
+Number of Reverse Rows (4) 419126400
+Number of Columns (4) 419126400
+Number of Reverse Columns (4) 419126400
+total for row and column including reverse for this configuration
+2 = 0
+3 = 0
+4 = 0
+total for row and column including reverse for all possible and valid configuration
+2 = 24436316160
+3 = 15088550400
+4 = 419126400
+
+14 5 10 18 
+16 9 8 11 
+17 19 12 6 
+15 3 7 0
+Number of Rows (4) 479001600
+Number of Reverse Rows (4) 479001600
+Number of Columns (4) 479001600
+Number of Reverse Columns (4) 479001600
+total for row and column including reverse for this configuration
+2 = 0
+3 = 0
+4 = 0
+total for row and column including reverse for all possible and valid configuration
+2 = 24436316160
+3 = 16765056000
+4 = 479001600
+
+12 1 8 2 
+6 17 10 3 
+14 15 13 4 
+9 7 19 0
+Number of Rows (4) 239500800
+Number of Reverse Rows (4) 239500800
+Number of Columns (4) 239500800
+Number of Reverse Columns (4) 239500800
+total for row and column including reverse for this configuration
+2 = 2
+3 = 0
+4 = 0
+total for row and column including reverse for all possible and valid configuration
+2 = 20363596800
+3 = 11735539200
+4 = 239500800
+
+6 10 17 8 
+16 11 1 7 
+5 4 13 14 
+19 3 15 0
+Number of Rows (4) 299376000
+Number of Reverse Rows (4) 299376000
+Number of Columns (4) 299376000
+Number of Reverse Columns (4) 299376000
+total for row and column including reverse for this configuration
+2 = 2
+3 = 0
+4 = 0
+total for row and column including reverse for all possible and valid configuration
+2 = 20363596800
+3 = 11735539200
+4 = 299376000
+
+3 5 14 4 
+16 2 19 6 
+17 7 8 15 
+12 13 11 0
+Number of Rows (4) 479001600
+Number of Reverse Rows (4) 479001600
+Number of Columns (4) 479001600
+Number of Reverse Columns (4) 479001600
+total for row and column including reverse for this configuration
+2 = 4
+3 = 0
+4 = 0
+total for row and column including reverse for all possible and valid configuration
+2 = 24436316160
+3 = 16765056000
+4 = 479001600
+
+19 2 6 11 
+16 18 9 15 
+5 12 13 17 
+7 1 4 0
+Number of Rows (4) 179625600
+Number of Reverse Rows (4) 179625600
+Number of Columns (4) 179625600
+Number of Reverse Columns (4) 179625600
+total for row and column including reverse for this configuration
+2 = 2
+3 = 0
+4 = 0
+total for row and column including reverse for all possible and valid configuration
+2 = 20363596800
+3 = 10059033600
+4 = 179625600
+
+15 6 11 10 
+19 13 3 14 
+8 18 7 17 
+2 4 9 0
+Number of Rows (4) 179625600
+Number of Reverse Rows (4) 179625600
+Number of Columns (4) 179625600
+Number of Reverse Columns (4) 179625600
+total for row and column including reverse for this configuration
+2 = 0
+3 = 0
+4 = 0
+total for row and column including reverse for all possible and valid configuration
+2 = 22399956480
+3 = 11735539200
+4 = 179625600
+
+12 19 1 14 
+13 9 16 2 
+3 6 10 11 
+5 18 17 0
+Number of Rows (4) 239500800
+Number of Reverse Rows (4) 239500800
+Number of Columns (4) 239500800
+Number of Reverse Columns (4) 239500800
+total for row and column including reverse for this configuration
+2 = 4
+3 = 0
+4 = 0
+total for row and column including reverse for all possible and valid configuration
+2 = 22399956480
+3 = 11735539200
+4 = 239500800
+
+2 11 1 17 
+16 15 19 10 
+14 18 13 6 
+7 5 4 0
+Number of Rows (4) 299376000
+Number of Reverse Rows (4) 299376000
+Number of Columns (4) 299376000
+Number of Reverse Columns (4) 299376000
+total for row and column including reverse for this configuration
+2 = 2
+3 = 0
+4 = 0
+total for row and column including reverse for all possible and valid configuration
+2 = 22399956480
+3 = 11735539200
+4 = 299376000
